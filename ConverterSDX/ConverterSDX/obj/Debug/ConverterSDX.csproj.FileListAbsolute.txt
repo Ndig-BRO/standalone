@@ -1,0 +1,10 @@
+C:\Users\Nikki\source\repos\ConverterSDX\ConverterSDX\bin\Debug\ConverterSDX.exe.config
+C:\Users\Nikki\source\repos\ConverterSDX\ConverterSDX\bin\Debug\ConverterSDX.exe
+C:\Users\Nikki\source\repos\ConverterSDX\ConverterSDX\bin\Debug\ConverterSDX.pdb
+C:\Users\Nikki\source\repos\ConverterSDX\ConverterSDX\obj\Debug\ConverterSDX.csproj.AssemblyReference.cache
+C:\Users\Nikki\source\repos\ConverterSDX\ConverterSDX\obj\Debug\ConverterSDX.ConverterSDX.resources
+C:\Users\Nikki\source\repos\ConverterSDX\ConverterSDX\obj\Debug\ConverterSDX.Properties.Resources.resources
+C:\Users\Nikki\source\repos\ConverterSDX\ConverterSDX\obj\Debug\ConverterSDX.csproj.GenerateResource.cache
+C:\Users\Nikki\source\repos\ConverterSDX\ConverterSDX\obj\Debug\ConverterSDX.csproj.CoreCompileInputs.cache
+C:\Users\Nikki\source\repos\ConverterSDX\ConverterSDX\obj\Debug\ConverterSDX.exe
+C:\Users\Nikki\source\repos\ConverterSDX\ConverterSDX\obj\Debug\ConverterSDX.pdb
